@@ -12,9 +12,7 @@
 **DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE**
 
 
-
 **AIM**:  
-
 To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
 **COMPONENTS REQUIRED:**
