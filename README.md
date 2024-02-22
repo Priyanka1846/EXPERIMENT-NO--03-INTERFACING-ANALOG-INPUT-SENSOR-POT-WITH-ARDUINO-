@@ -63,8 +63,6 @@ CIRCUIT DIAGRAM
 8.	Upload the program and check for the physical working. 
 9.	Ensure safety before powering up the device 
 
-
-
 **PROGRAM:** 
 ```
 int led=4;
