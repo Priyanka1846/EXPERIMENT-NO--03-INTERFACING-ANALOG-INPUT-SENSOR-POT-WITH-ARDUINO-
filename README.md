@@ -105,6 +105,7 @@ void loop()
 ![Screenshot 2024-02-22 111134](https://github.com/Priyanka1846/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/139425809/19d9ccf4-e759-47d3-ba1c-535217da5e46)
 
 **Serial Monitor:**
+
 ![image](https://github.com/Priyanka1846/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/139425809/8ad4562f-72bd-42b9-a925-5bfb48289e37)
 
 **RESULT:** 
